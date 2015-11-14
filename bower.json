@@ -1,0 +1,24 @@
+{
+  "name": "git-practice",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yusphy45/git-practice",
+  "authors": [
+    "hanjinchi <yusphyj45@gmail.com>"
+  ],
+  "main": "index.js",
+  "keywords": [
+    "git",
+    "practice"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "0.12.16"
+  }
+}
